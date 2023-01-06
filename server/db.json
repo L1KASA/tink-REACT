@@ -1,0 +1,140 @@
+{
+  "favorites": [
+    {
+      "id": 1,
+      "title": "test"
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "Зеленая миля",
+      "year": "1999",
+      "runtime": "92",
+      "genres": "Драма, Фэнтези, Криминал",
+      "director": "Фрэнк Дарабонт",
+      "actors": "Том Хэнкс, Дэвид Морс, Бонни Хант, Майкл Кларк Дункан, Джеймс Кромуэлл, Майкл Джитер, Грэм Грин, Даг Хатчисон, Сэм Рокуэлл, Барри Пеппер",
+      "plot": "Пол Эджкомб — начальник блока смертников в тюрьме «Холодная гора», каждый из узников которого однажды проходит «зеленую милю» по пути к месту казни. Пол повидал много заключённых и надзирателей за время работы. Однако гигант Джон Коффи, обвинённый в страшном преступлении, стал одним из самых необычных обитателей блока.",
+      "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1898899/443e111e-f714-4954-83d0-3e0acca2a561/1920x"
+    },
+    {
+      "title": "Американский психопат",
+      "posterUrl": "https://kinopoisk-ru.clstorage.net/N30iW1384/e515deON/2zI0YN6s508t2KHYsS6u_7YQb9WcfzvbzhmPOPlra6c20ffu3qRaZAQJo-XTY5cm7LVpSbLmCMXCUxKkW3m3aX_2EeSrqRZevU2UOUD7LkqjAdsVSbsav0t9zunMvt5VxdN0zEmGOZaGC2Xxt0d2U1kADUiCU8zA4yem43291-vIU5VSn680az8ach9wPy7fZlK7xZ2-Lnivelnaa0qJ5yVh9D6bVHvkpSk0EiVWs5LrI69psdIegdcGtOBfS4VYifM08o7fBpqtOFJNMx2czWVQ-gQPLI5bTeoa6RpoiiVEcYa9yffYJCRZJ8Pnl3KCu6BsmxIzPMFmhOYQfDuH6kkB9lDufrQq7UigbmAeXU2WgRol7twNG-6467j669s1J4MEjBhnutWEaJVQBnVDsctDfQsBAs3AN4b0or9qp9gZ43bQ3M71GV6bYd5ArgwMxoG6lj69fVlvahtJenkoFHchBm3p98pVRml0IaZWIYLLEiwYEwIu0tTGRcGdSoY5yFE2ke7u52uNaoNPAKwNb0cha-YObg147FvZyDlo6vT08xT_OtaJJkfbFSHndNCR-xOfq-Hz3ZCm5abxLcq1ixqD9sLdj9f43iuCTED8jU-XM6v3nw18eax6CLtbSboll7BErsk0OjU2aLYxp1Ugg0rDThngYMzS10RGMJz5FTiJgjcynN6nCf34Uv8xrk8NBFLpJ9x83YotStvJW1lL9zQzlhyYZCqXFFtHkeR2EuCokG1asnH_kfeHxYAvaPb5qcN0oV3v9hnuK4BNcx6NbWTDynYsPi45PvnquMipSvUFYMRt-ffaZ7U7trA2tBMyifOvyIITLMHUVDSyfWmWWogBJrH_3ZTI_8vBjyOcbV_FQytnDo3dW-_LarppaStFNDNFThvmq9SG29RBhQZQINrCjfvR4D0T14WHIC9a9NgbQvXgj76GGv06IkzSnb9f1RF7dE2PDjjtK6s4aKq4NBdC5Y0LZqkmVUpVgNc0cRGJA6_r8rGP0AeGVoHfCWf6SgEH4o5tNlv-iNLcEe5tLpdzaWX9HP1JLWqb2evo-bRUwzZvyGS7F0bpxdBXNXBQe2Fv-oGx70FFVxagLxj1yBmiZGD9jqVJHWpCDNL_3byEEot1rz1eat0KuojJOhpGhuJGTUlUahcUCVax9heCcdlhf4ricg7C1YSmI91K5UnJA4Qh7a7l6S_6MB1g_q4vNnLZlvz-P5r8qCj5Gpm5FMcCRq8YhdqWpjj3k1REEiJ7YG0K4aPu0tf3J_KuypQaidBWgKxshwl_G9Od0R4PLUaS-pcuPf05P9oKSqk5SUcUUDaem_a4xsdqxWAndLIzmbCPC6ITDMBEx7bTH9mXy6sBdtEd7edabXhAbIMvHoy0M3g2Pg7ce30IGQsY2ugXVEJF7qjk-ndlGrUztCcx0vuyr4iB8s6CFGSV8-5bhStqsiYT_o1GyQ26Y56Djv7-dQJLBZ8938ie28vbe8rbhNWyBv97N8qVVrj1IcW2wjGKMB_pUrAfkPTllxJMy2Taq_J0ApzNFyj_udIM876c75fTy9VNLe1Z3GhZCHtbmcSkg4QNeQR6F3To56IWtyCR2DINmQMATnH3dAdRD3qEKZgQReK9nbbpfgpCz2GPHRxmcEinP13uCD6o2mnrucjXlQPkrNtUaacGy6Uj9CbR0xkzvOrh0Y2RJff18P741OhrMDTR_qzG-x1oAhyg_x5u52C4Vn0_34lcyvtJeNnL95dDB9zo5BnkZ_jWcrZG4IK60U9rYCJeUQbVhVGNS7XZGzP10g8_Zjm9KhD8MTxsLbahKlZvjr3L3PmIyKto2lWmQBT-KieploQZVfJUpzDA6DAcy8Mw_aJndGaC3opGG-nA19DPPkVpDUtz7KL-7nzn01g0Tv4euIxqS9jquvlm52PWf_t16zSna1cClydiwvnDraviknzDZTak8l5bdYprA-UBHP1X676LQj6gzYzdpMKpVYyOnKlemkn4OOjLRBRwJ33LJGjlF_kX0PZWMIPY4a8aEyPtMPU2lXMsW2fZenNHUe6uhgqvK5PNUIxOzWfjORbub35IvWmaajnLKYUVcaeuSwQLlZYIx6KGJBHxC7BfyiHQXTAVteVCTNpG6WozpuCuH2UZX2pQ3zLNHu1XEwmVrQyMGd44C4g5iUl05sMlfOpni7aFGSUB93cA0rliTZuT4c8gtZZ2o-5aliirYSaD3g5E6d8aMH7yHO8f5iBLxR5v3etPemvai5n615eiZcx6NguGtxkUIDVVUuPYAE-rsCJuYjbX5PBea6VZiAAUEQ7dVgqOanF-wo3O_7aBmncMr98ZXChImtq5O_bE88WtGgf49Aa61_O1JQPDiUK_moCz3KH3VAYQX9sFaHsDdKCvjYYYvfiR_mId_MylMntmP0yNSW7paMq5KXpmttPXfTomKTSWmceT9tUC89kAHXuxw33C1IQ3cv0K9ipKMCYzHy0War9KkPwyDgxNZXGIR-6cL4mOudvYaxgp9tWzJ9355KpmZlr0MHc3E-FZ4qzYEcPPMJb3J8JNeLbqS_OWoc8vNMvviCFNQ8wevbcBG-b-TD9Z3utLiWhbG-U04aQ-eFb7FSUJNIHGVaPTGdBcOOOyfcN0RlXibRuGKqtD5_KOf9drHRjyLgGt3gzH44l0fh5uWLx5y4kbafp3dINWrxvWCbR0aWVgNXeCIsnA3LuisS5S52Y3gcxZtUmpQAXhb-9WKJ6oAK5jnn-cpJN6p_0-3-veK2nLe1iIdBYCVp_6teqElVtFMhe3MlG7Us8KguINsweG9WMOa-RZe-E0YL-91JscGJF8Yn2uXuRxOUZePs5ZLtiJaOlJ6AUXUya_yfRKBlYq12HkxIHRCQCt-bAwTxFG9rbh_GiGC5tjZdF8PUcqr7phTvI8_z_kgzmULB9tOWyoiZoZycpHd1AGfvlk2mW3SKVgJIYTkNvCLOjTgT1ipvRX0",
+      "year": "2000",
+      "genres": "Драма, Криминал, Триллер",
+      "director": "Мэри Хэррон",
+      "actors": "Кристиан Бэйл, Уиллем Дефо, Джош Лукас, Риз Уизерспун, Кэра Сеймур, Джастин Теру, Джаред Лето, Хлоя Севиньи, Саманта Мэтис, Мэтт Росс",
+      "rating": "10",
+      "id": 2
+    },
+    {
+      "posterUrl": "https://kinopoisk-ru.clstorage.net/N30iW1384/e515deON/2zI0YN6s508t2KHYsS6u_7YQb9WcfzvbzhmPOPlra6c20ffu3qRaZAQJo-XTowe2nBVpTAfTeKUykxf0XlzCLL_2EVS7-RPr7WiEPBXuq0-zVO6laXtPD0t9zunMvt5VxdN0zEmGOZaGC2Xxt0d2U1kADUiCU8zA4yem43291-vIU5VSn680az8ach9wPy7fZlK7xZ2-Lnivelnaa0qJ5yVh9D6bVHvkpSk0EiVWs5LrI69psdIegdcGtOBfS4VYifM08o7fBpqtOFJNMx2czWVQ-gQPLI5bTeoa6RpoiiVEcYa9yffYJCRZJ8Pnl3KCu6BsmxIzPMFmhOYQfDuH6kkB9lDufrQq7UigbmAeXU2WgRol7twNG-6467j669s1J4MEjBhnutWEaJVQBnVDsctDfQsBAs3AN4b0or9qp9gZ43bQ3M71GV6bYd5ArgwMxoG6lj69fVlvahtJenkoFHchBm3p98pVRml0IaZWIYLLEiwYEwIu0tTGRcGdSoY5yFE2ke7u52uNaoNPAKwNb0cha-YObg147FvZyDlo6vT08xT_OtaJJkfbFSHndNCR-xOfq-Hz3ZCm5abxLcq1ixqD9sLdj9f43iuCTED8jU-XM6v3nw18eax6CLtbSboll7BErsk0OjU2aLYxp1Ugg0rDThngYMzS10RGMJz5FTiJgjcynN6nCf34Uv8xrk8NBFLpJ9x83YotStvJW1lL9zQzlhyYZCqXFFtHkeR2EuCokG1asnH_kfeHxYAvaPb5qcN0oV3v9hnuK4BNcx6NbWTDynYsPi45PvnquMipSvUFYMRt-ffaZ7U7trA2tBMyifOvyIITLMHUVDSyfWmWWogBJrH_3ZTI_8vBjyOcbV_FQytnDo3dW-_LarppaStFNDNFThvmq9SG29RBhQZQINrCjfvR4D0T14WHIC9a9NgbQvXgj76GGv06IkzSnb9f1RF7dE2PDjjtK6s4aKq4NBdC5Y0LZqkmVUpVgNc0cRGJA6_r8rGP0AeGVoHfCWf6SgEH4o5tNlv-iNLcEe5tLpdzaWX9HP1JLWqb2evo-bRUwzZvyGS7F0bpxdBXNXBQe2Fv-oGx70FFVxagLxj1yBmiZGD9jqVJHWpCDNL_3byEEot1rz1eat0KuojJOhpGhuJGTUlUahcUCVax9heCcdlhf4ricg7C1YSmI91K5UnJA4Qh7a7l6S_6MB1g_q4vNnLZlvz-P5r8qCj5Gpm5FMcCRq8YhdqWpjj3k1REEiJ7YG0K4aPu0tf3J_KuypQaidBWgKxshwl_G9Od0R4PLUaS-pcuPf05P9oKSqk5SUcUUDaem_a4xsdqxWAndLIzmbCPC6ITDMBEx7bTH9mXy6sBdtEd7edabXhAbIMvHoy0M3g2Pg7ce30IGQsY2ugXVEJF7qjk-ndlGrUztCcx0vuyr4iB8s6CFGSV8-5bhStqsiYT_o1GyQ26Y56Djv7-dQJLBZ8938ie28vbe8rbhNWyBv97N8qVVrj1IcW2wjGKMB_pUrAfkPTllxJMy2Taq_J0ApzNFyj_udIM876c75fTy9VNLe1Z3GhZCHtbmcSkg4QNeQR6F3To56IWtyCR2DINmQMATnH3dAdRD3qEKZgQReK9nbbpfgpCz2GPHRxmcEinP13uCD6o2mnrucjXlQPkrNtUaacGy6Uj9CbR0xkzvOrh0Y2RJff18P741OhrMDTR_qzG-x1oAhyg_x5u52C4Vn0_34lcyvtJeNnL95dDB9zo5BnkZ_jWcrZG4IK60U9rYCJeUQbVhVGNS7XZGzP10g8_Zjm9KhD8MTxsLbahKlZvjr3L3PmIyKto2lWmQBT-KieploQZVfJUpzDA6DAcy8Mw_aJndGaC3opGG-nA19DPPkVpDUtz7KL-7nzn01g0Tv4euIxqS9jquvlm52PWf_t16zSna1cClydiwvnDraviknzDZTak8l5bdYprA-UBHP1X676LQj6gzYzdpMKpVYyOnKlemkn4OOjLRBRwJ33LJGjlF_kX0PZWMIPY4a8aEyPtMPU2lXMsW2fZenNHUe6uhgqvK5PNUIxOzWfjORbub35IvWmaajnLKYUVcaeuSwQLlZYIx6KGJBHxC7BfyiHQXTAVteVCTNpG6WozpuCuH2UZX2pQ3zLNHu1XEwmVrQyMGd44C4g5iUl05sMlfOpni7aFGSUB93cA0rliTZuT4c8gtZZ2o-5aliirYSaD3g5E6d8aMH7yHO8f5iBLxR5v3etPemvai5n615eiZcx6NguGtxkUIDVVUuPYAE-rsCJuYjbX5PBea6VZiAAUEQ7dVgqOanF-wo3O_7aBmncMr98ZXChImtq5O_bE88WtGgf49Aa61_O1JQPDiUK_moCz3KH3VAYQX9sFaHsDdKCvjYYYvfiR_mId_MylMntmP0yNSW7paMq5KXpmttPXfTomKTSWmceT9tUC89kAHXuxw33C1IQ3cv0K9ipKMCYzHy0War9KkPwyDgxNZXGIR-6cL4mOudvYaxgp9tWzJ9355KpmZlr0MHc3E-FZ4qzYEcPPMJb3J8JNeLbqS_OWoc8vNMvviCFNQ8wevbcBG-b-TD9Z3utLiWhbG-U04aQ-eFb7FSUJNIHGVaPTGdBcOOOyfcN0RlXibRuGKqtD5_KOf9drHRjyLgGt3gzH44l0fh5uWLx5y4kbafp3dINWrxvWCbR0aWVgNXeCIsnA3LuisS5S52Y3gcxZtUmpQAXhb-9WKJ6oAK5jnn-cpJN6p_0-3-veK2nLe1iIdBYCVp_6teqElVtFMhe3MlG7Us8KguINsweG9WMOa-RZe-E0YL-91JscGJF8Yn2uXuRxOUZePs5ZLtiJaOlJ6AUXUya_yfRKBlYq12HkxIHRCQCt-bAwTxFG9rbh_GiGC5tjZdF8PUcqr7phTvI8_z_kgzmULB9tOWyoiZoZycpHd1AGfvlk2mW3SKVgJIYTkNvCLOjTgT1ipvRX0",
+      "year": " 1994",
+      "plot": "Двое бандитов Винсент Вега и Джулс Винфилд ведут философские беседы в перерывах между разборками и решением проблем с должниками криминального босса Марселласа Уоллеса.  В первой истории Винсент проводит незабываемый вечер с женой Марселласа Мией. Во второй рассказывается о боксёре Бутче Кулидже, купленном Уоллесом, чтобы сдать бой. В третьей истории Винсент и Джулс по нелепой случайности попадают в неприятности.",
+      "genres": "Криминал, Драма",
+      "rating": "9",
+      "director": "Квентин Тарантино",
+      "title": "Криминальное чтиво",
+      "actors": "Джон Траволта, Сэмюэл Л. Джексон, Брюс Уиллис, Ума Турман, Винг Реймз, Тим Рот, Харви Кейтель, Квентин Тарантино, Питер Грин, Аманда Пламмер",
+      "id": 3
+    },
+    {
+      "title": "Взломать блогеров",
+      "year": " 2016",
+      "genres": "Комедия, Мультфильм, Фантастика, Семейный",
+      "rating": "1",
+      "director": "Максим Свешников",
+      "actors": "Саша Спилберг, Ивангай Марьяна Ро, Ян Гордиенко, Юлия Пушман, Карина Каспарянц, Павел Рассомахин",
+      "posterUrl": "https://kinopoisk-ru.clstorage.net/N30iW1384/e515deON/2zI0YN6s508t2KHYsS6u_7YQb9WcfzvbzhmPOPlra6c20ffu3qRaZAQJo-XTowe2nBVpSefG2MUX4-f0Wyn3TA_2EXTuqRP77Uj0OTCLy0qWFKsAKWsfP0t9zunMvt5VxdN0zEmGOZaGC2Xxt0d2U1kADUiCU8zA4yem43291-vIU5VSn680az8ach9wPy7fZlK7xZ2-Lnivelnaa0qJ5yVh9D6bVHvkpSk0EiVWs5LrI69psdIegdcGtOBfS4VYifM08o7fBpqtOFJNMx2czWVQ-gQPLI5bTeoa6RpoiiVEcYa9yffYJCRZJ8Pnl3KCu6BsmxIzPMFmhOYQfDuH6kkB9lDufrQq7UigbmAeXU2WgRol7twNG-6467j669s1J4MEjBhnutWEaJVQBnVDsctDfQsBAs3AN4b0or9qp9gZ43bQ3M71GV6bYd5ArgwMxoG6lj69fVlvahtJenkoFHchBm3p98pVRml0IaZWIYLLEiwYEwIu0tTGRcGdSoY5yFE2ke7u52uNaoNPAKwNb0cha-YObg147FvZyDlo6vT08xT_OtaJJkfbFSHndNCR-xOfq-Hz3ZCm5abxLcq1ixqD9sLdj9f43iuCTED8jU-XM6v3nw18eax6CLtbSboll7BErsk0OjU2aLYxp1Ugg0rDThngYMzS10RGMJz5FTiJgjcynN6nCf34Uv8xrk8NBFLpJ9x83YotStvJW1lL9zQzlhyYZCqXFFtHkeR2EuCokG1asnH_kfeHxYAvaPb5qcN0oV3v9hnuK4BNcx6NbWTDynYsPi45PvnquMipSvUFYMRt-ffaZ7U7trA2tBMyifOvyIITLMHUVDSyfWmWWogBJrH_3ZTI_8vBjyOcbV_FQytnDo3dW-_LarppaStFNDNFThvmq9SG29RBhQZQINrCjfvR4D0T14WHIC9a9NgbQvXgj76GGv06IkzSnb9f1RF7dE2PDjjtK6s4aKq4NBdC5Y0LZqkmVUpVgNc0cRGJA6_r8rGP0AeGVoHfCWf6SgEH4o5tNlv-iNLcEe5tLpdzaWX9HP1JLWqb2evo-bRUwzZvyGS7F0bpxdBXNXBQe2Fv-oGx70FFVxagLxj1yBmiZGD9jqVJHWpCDNL_3byEEot1rz1eat0KuojJOhpGhuJGTUlUahcUCVax9heCcdlhf4ricg7C1YSmI91K5UnJA4Qh7a7l6S_6MB1g_q4vNnLZlvz-P5r8qCj5Gpm5FMcCRq8YhdqWpjj3k1REEiJ7YG0K4aPu0tf3J_KuypQaidBWgKxshwl_G9Od0R4PLUaS-pcuPf05P9oKSqk5SUcUUDaem_a4xsdqxWAndLIzmbCPC6ITDMBEx7bTH9mXy6sBdtEd7edabXhAbIMvHoy0M3g2Pg7ce30IGQsY2ugXVEJF7qjk-ndlGrUztCcx0vuyr4iB8s6CFGSV8-5bhStqsiYT_o1GyQ26Y56Djv7-dQJLBZ8938ie28vbe8rbhNWyBv97N8qVVrj1IcW2wjGKMB_pUrAfkPTllxJMy2Taq_J0ApzNFyj_udIM876c75fTy9VNLe1Z3GhZCHtbmcSkg4QNeQR6F3To56IWtyCR2DINmQMATnH3dAdRD3qEKZgQReK9nbbpfgpCz2GPHRxmcEinP13uCD6o2mnrucjXlQPkrNtUaacGy6Uj9CbR0xkzvOrh0Y2RJff18P741OhrMDTR_qzG-x1oAhyg_x5u52C4Vn0_34lcyvtJeNnL95dDB9zo5BnkZ_jWcrZG4IK60U9rYCJeUQbVhVGNS7XZGzP10g8_Zjm9KhD8MTxsLbahKlZvjr3L3PmIyKto2lWmQBT-KieploQZVfJUpzDA6DAcy8Mw_aJndGaC3opGG-nA19DPPkVpDUtz7KL-7nzn01g0Tv4euIxqS9jquvlm52PWf_t16zSna1cClydiwvnDraviknzDZTak8l5bdYprA-UBHP1X676LQj6gzYzdpMKpVYyOnKlemkn4OOjLRBRwJ33LJGjlF_kX0PZWMIPY4a8aEyPtMPU2lXMsW2fZenNHUe6uhgqvK5PNUIxOzWfjORbub35IvWmaajnLKYUVcaeuSwQLlZYIx6KGJBHxC7BfyiHQXTAVteVCTNpG6WozpuCuH2UZX2pQ3zLNHu1XEwmVrQyMGd44C4g5iUl05sMlfOpni7aFGSUB93cA0rliTZuT4c8gtZZ2o-5aliirYSaD3g5E6d8aMH7yHO8f5iBLxR5v3etPemvai5n615eiZcx6NguGtxkUIDVVUuPYAE-rsCJuYjbX5PBea6VZiAAUEQ7dVgqOanF-wo3O_7aBmncMr98ZXChImtq5O_bE88WtGgf49Aa61_O1JQPDiUK_moCz3KH3VAYQX9sFaHsDdKCvjYYYvfiR_mId_MylMntmP0yNSW7paMq5KXpmttPXfTomKTSWmceT9tUC89kAHXuxw33C1IQ3cv0K9ipKMCYzHy0War9KkPwyDgxNZXGIR-6cL4mOudvYaxgp9tWzJ9355KpmZlr0MHc3E-FZ4qzYEcPPMJb3J8JNeLbqS_OWoc8vNMvviCFNQ8wevbcBG-b-TD9Z3utLiWhbG-U04aQ-eFb7FSUJNIHGVaPTGdBcOOOyfcN0RlXibRuGKqtD5_KOf9drHRjyLgGt3gzH44l0fh5uWLx5y4kbafp3dINWrxvWCbR0aWVgNXeCIsnA3LuisS5S52Y3gcxZtUmpQAXhb-9WKJ6oAK5jnn-cpJN6p_0-3-veK2nLe1iIdBYCVp_6teqElVtFMhe3MlG7Us8KguINsweG9WMOa-RZe-E0YL-91JscGJF8Yn2uXuRxOUZePs5ZLtiJaOlJ6AUXUya_yfRKBlYq12HkxIHRCQCt-bAwTxFG9rbh_GiGC5tjZdF8PUcqr7phTvI8_z_kgzmULB9tOWyoiZoZycpHd1AGfvlk2mW3SKVgJIYTkNvCLOjTgT1ipvRX0",
+      "id": 4
+    },
+    {
+      "title": "Какой-то интересный фильм с длинным названием",
+      "year": "2023",
+      "actors": "Талантливый Человек",
+      "director": "Режиссер Отбога",
+      "id": 5
+    },
+    {
+      "title": "Какой-то интересный фиииииииииииииииииииииииииииииииииииииииииильм",
+      "year": "2022",
+      "actors": "Актер",
+      "director": "Режиссер",
+      "id": 6
+    },
+    {
+      "title": "Остров проклятых",
+      "year": "2009",
+      "posterUrl": "https://kinopoisk-ru.clstorage.net/N30iW1384/e515deON/2zI0YN6s508t2KHYsS6u_7YQb9WcfzvbzhmPOPlra6c20ffu3qRaZAQJo-WDAweGjJX5TOe2KMVS9qLEXnm3bF_2EVTriRZbiBikOTWLK2q2YY5Q-btaX0t9zunMvt5VxdN0zEmGOZaGC2Xxt0d2U1kADUiCU8zA4yem43291-vIU5VSn680az8ach9wPy7fZlK7xZ2-Lnivelnaa0qJ5yVh9D6bVHvkpSk0EiVWs5LrI69psdIegdcGtOBfS4VYifM08o7fBpqtOFJNMx2czWVQ-gQPLI5bTeoa6RpoiiVEcYa9yffYJCRZJ8Pnl3KCu6BsmxIzPMFmhOYQfDuH6kkB9lDufrQq7UigbmAeXU2WgRol7twNG-6467j669s1J4MEjBhnutWEaJVQBnVDsctDfQsBAs3AN4b0or9qp9gZ43bQ3M71GV6bYd5ArgwMxoG6lj69fVlvahtJenkoFHchBm3p98pVRml0IaZWIYLLEiwYEwIu0tTGRcGdSoY5yFE2ke7u52uNaoNPAKwNb0cha-YObg147FvZyDlo6vT08xT_OtaJJkfbFSHndNCR-xOfq-Hz3ZCm5abxLcq1ixqD9sLdj9f43iuCTED8jU-XM6v3nw18eax6CLtbSboll7BErsk0OjU2aLYxp1Ugg0rDThngYMzS10RGMJz5FTiJgjcynN6nCf34Uv8xrk8NBFLpJ9x83YotStvJW1lL9zQzlhyYZCqXFFtHkeR2EuCokG1asnH_kfeHxYAvaPb5qcN0oV3v9hnuK4BNcx6NbWTDynYsPi45PvnquMipSvUFYMRt-ffaZ7U7trA2tBMyifOvyIITLMHUVDSyfWmWWogBJrH_3ZTI_8vBjyOcbV_FQytnDo3dW-_LarppaStFNDNFThvmq9SG29RBhQZQINrCjfvR4D0T14WHIC9a9NgbQvXgj76GGv06IkzSnb9f1RF7dE2PDjjtK6s4aKq4NBdC5Y0LZqkmVUpVgNc0cRGJA6_r8rGP0AeGVoHfCWf6SgEH4o5tNlv-iNLcEe5tLpdzaWX9HP1JLWqb2evo-bRUwzZvyGS7F0bpxdBXNXBQe2Fv-oGx70FFVxagLxj1yBmiZGD9jqVJHWpCDNL_3byEEot1rz1eat0KuojJOhpGhuJGTUlUahcUCVax9heCcdlhf4ricg7C1YSmI91K5UnJA4Qh7a7l6S_6MB1g_q4vNnLZlvz-P5r8qCj5Gpm5FMcCRq8YhdqWpjj3k1REEiJ7YG0K4aPu0tf3J_KuypQaidBWgKxshwl_G9Od0R4PLUaS-pcuPf05P9oKSqk5SUcUUDaem_a4xsdqxWAndLIzmbCPC6ITDMBEx7bTH9mXy6sBdtEd7edabXhAbIMvHoy0M3g2Pg7ce30IGQsY2ugXVEJF7qjk-ndlGrUztCcx0vuyr4iB8s6CFGSV8-5bhStqsiYT_o1GyQ26Y56Djv7-dQJLBZ8938ie28vbe8rbhNWyBv97N8qVVrj1IcW2wjGKMB_pUrAfkPTllxJMy2Taq_J0ApzNFyj_udIM876c75fTy9VNLe1Z3GhZCHtbmcSkg4QNeQR6F3To56IWtyCR2DINmQMATnH3dAdRD3qEKZgQReK9nbbpfgpCz2GPHRxmcEinP13uCD6o2mnrucjXlQPkrNtUaacGy6Uj9CbR0xkzvOrh0Y2RJff18P741OhrMDTR_qzG-x1oAhyg_x5u52C4Vn0_34lcyvtJeNnL95dDB9zo5BnkZ_jWcrZG4IK60U9rYCJeUQbVhVGNS7XZGzP10g8_Zjm9KhD8MTxsLbahKlZvjr3L3PmIyKto2lWmQBT-KieploQZVfJUpzDA6DAcy8Mw_aJndGaC3opGG-nA19DPPkVpDUtz7KL-7nzn01g0Tv4euIxqS9jquvlm52PWf_t16zSna1cClydiwvnDraviknzDZTak8l5bdYprA-UBHP1X676LQj6gzYzdpMKpVYyOnKlemkn4OOjLRBRwJ33LJGjlF_kX0PZWMIPY4a8aEyPtMPU2lXMsW2fZenNHUe6uhgqvK5PNUIxOzWfjORbub35IvWmaajnLKYUVcaeuSwQLlZYIx6KGJBHxC7BfyiHQXTAVteVCTNpG6WozpuCuH2UZX2pQ3zLNHu1XEwmVrQyMGd44C4g5iUl05sMlfOpni7aFGSUB93cA0rliTZuT4c8gtZZ2o-5aliirYSaD3g5E6d8aMH7yHO8f5iBLxR5v3etPemvai5n615eiZcx6NguGtxkUIDVVUuPYAE-rsCJuYjbX5PBea6VZiAAUEQ7dVgqOanF-wo3O_7aBmncMr98ZXChImtq5O_bE88WtGgf49Aa61_O1JQPDiUK_moCz3KH3VAYQX9sFaHsDdKCvjYYYvfiR_mId_MylMntmP0yNSW7paMq5KXpmttPXfTomKTSWmceT9tUC89kAHXuxw33C1IQ3cv0K9ipKMCYzHy0War9KkPwyDgxNZXGIR-6cL4mOudvYaxgp9tWzJ9355KpmZlr0MHc3E-FZ4qzYEcPPMJb3J8JNeLbqS_OWoc8vNMvviCFNQ8wevbcBG-b-TD9Z3utLiWhbG-U04aQ-eFb7FSUJNIHGVaPTGdBcOOOyfcN0RlXibRuGKqtD5_KOf9drHRjyLgGt3gzH44l0fh5uWLx5y4kbafp3dINWrxvWCbR0aWVgNXeCIsnA3LuisS5S52Y3gcxZtUmpQAXhb-9WKJ6oAK5jnn-cpJN6p_0-3-veK2nLe1iIdBYCVp_6teqElVtFMhe3MlG7Us8KguINsweG9WMOa-RZe-E0YL-91JscGJF8Yn2uXuRxOUZePs5ZLtiJaOlJ6AUXUya_yfRKBlYq12HkxIHRCQCt-bAwTxFG9rbh_GiGC5tjZdF8PUcqr7phTvI8_z_kgzmULB9tOWyoiZoZycpHd1AGfvlk2mW3SKVgJIYTkNvCLOjTgT1ipvRX0",
+      "actors": "Леонардо ДиКаприо, Марк Руффало, Бен Кингсли, Макс фон Сюдов, Мишель Уильямс, Эмили Мортимер, Патриша Кларксон, Джеки Эрл Хейли, Тед Левайн, Джон Кэрролл Линч",
+      "plot": "Два американских судебных пристава отправляются на один из островов в штате Массачусетс, чтобы расследовать исчезновение пациентки клиники для умалишенных преступников. При проведении расследования им придется столкнуться с паутиной лжи, обрушившимся ураганом и смертельным бунтом обитателей клиники.",
+      "genres": "Триллер, Детектив, Драма",
+      "rating": "10",
+      "director": "Мартин Скорсезе",
+      "id": 7
+    },
+    {
+      "title": "Джентльмены",
+      "year": "2019",
+      "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/637271d5-61b4-4e46-ac83-6d07494c7645/300x450",
+      "actors": "Мэттью МакКонахи, Чарли Ханнэм, Генри Голдинг Хью Грант Мишель Докери Джереми Стронг, Эдди Марсан, Джейсон Вонг, Колин Фаррелл, Лин Рене",
+      "plot": "Один ушлый американец ещё со студенческих лет приторговывал наркотиками, а теперь придумал схему нелегального обогащения с использованием поместий обедневшей английской аристократии и очень неплохо на этом разбогател. Другой пронырливый журналист приходит к Рэю, правой руке американца, и предлагает тому купить киносценарий, в котором подробно описаны преступления его босса при участии других представителей лондонского криминального мира — партнёра-еврея, китайской диаспоры, чернокожих спортсменов и даже русского олигарха.",
+      "genres": "Криминал, Комедия, Боевик",
+      "rating": "8.5",
+      "director": "Гай Ричи",
+      "id": 8
+    },
+    {
+      "title": "Фильм",
+      "year": "1989",
+      "actors": "Актер Один, Актер Два",
+      "director": "Режиссер",
+      "id": 9,
+      "posterUrl": ""
+    },
+    {
+      "title": "Твоё имя",
+      "year": " 2016",
+      "actors": "Рюносукэ Камики, Монэ Камисираиси, Рё Нарита, Аои Юки, Нобунага Симадзаки, Каито Исикава, Канон Тани, Масаки Тэрасома, Саяка Охара, Кадзухико Иноуэ",
+      "director": "Макото Синкай",
+      "id": 10,
+      "posterUrl": "https://kinopoisk-ru.clstorage.net/N30iW1384/e515deON/2zI0YN6s508t2KHYsS6u_7YQb9WcfzvbzhmPOPlra6c20ffu3qRaZAQJo-XTo0fWrMV5SdcmGGXC8_f0W9xHPF_2EWQe2RZb7Rj0OVCrzkqGcYtVGRv6f0t9zunMvt5VxdN0zEmGOZaGC2Xxt0d2U1kADUiCU8zA4yem43291-vIU5VSn680az8ach9wPy7fZlK7xZ2-Lnivelnaa0qJ5yVh9D6bVHvkpSk0EiVWs5LrI69psdIegdcGtOBfS4VYifM08o7fBpqtOFJNMx2czWVQ-gQPLI5bTeoa6RpoiiVEcYa9yffYJCRZJ8Pnl3KCu6BsmxIzPMFmhOYQfDuH6kkB9lDufrQq7UigbmAeXU2WgRol7twNG-6467j669s1J4MEjBhnutWEaJVQBnVDsctDfQsBAs3AN4b0or9qp9gZ43bQ3M71GV6bYd5ArgwMxoG6lj69fVlvahtJenkoFHchBm3p98pVRml0IaZWIYLLEiwYEwIu0tTGRcGdSoY5yFE2ke7u52uNaoNPAKwNb0cha-YObg147FvZyDlo6vT08xT_OtaJJkfbFSHndNCR-xOfq-Hz3ZCm5abxLcq1ixqD9sLdj9f43iuCTED8jU-XM6v3nw18eax6CLtbSboll7BErsk0OjU2aLYxp1Ugg0rDThngYMzS10RGMJz5FTiJgjcynN6nCf34Uv8xrk8NBFLpJ9x83YotStvJW1lL9zQzlhyYZCqXFFtHkeR2EuCokG1asnH_kfeHxYAvaPb5qcN0oV3v9hnuK4BNcx6NbWTDynYsPi45PvnquMipSvUFYMRt-ffaZ7U7trA2tBMyifOvyIITLMHUVDSyfWmWWogBJrH_3ZTI_8vBjyOcbV_FQytnDo3dW-_LarppaStFNDNFThvmq9SG29RBhQZQINrCjfvR4D0T14WHIC9a9NgbQvXgj76GGv06IkzSnb9f1RF7dE2PDjjtK6s4aKq4NBdC5Y0LZqkmVUpVgNc0cRGJA6_r8rGP0AeGVoHfCWf6SgEH4o5tNlv-iNLcEe5tLpdzaWX9HP1JLWqb2evo-bRUwzZvyGS7F0bpxdBXNXBQe2Fv-oGx70FFVxagLxj1yBmiZGD9jqVJHWpCDNL_3byEEot1rz1eat0KuojJOhpGhuJGTUlUahcUCVax9heCcdlhf4ricg7C1YSmI91K5UnJA4Qh7a7l6S_6MB1g_q4vNnLZlvz-P5r8qCj5Gpm5FMcCRq8YhdqWpjj3k1REEiJ7YG0K4aPu0tf3J_KuypQaidBWgKxshwl_G9Od0R4PLUaS-pcuPf05P9oKSqk5SUcUUDaem_a4xsdqxWAndLIzmbCPC6ITDMBEx7bTH9mXy6sBdtEd7edabXhAbIMvHoy0M3g2Pg7ce30IGQsY2ugXVEJF7qjk-ndlGrUztCcx0vuyr4iB8s6CFGSV8-5bhStqsiYT_o1GyQ26Y56Djv7-dQJLBZ8938ie28vbe8rbhNWyBv97N8qVVrj1IcW2wjGKMB_pUrAfkPTllxJMy2Taq_J0ApzNFyj_udIM876c75fTy9VNLe1Z3GhZCHtbmcSkg4QNeQR6F3To56IWtyCR2DINmQMATnH3dAdRD3qEKZgQReK9nbbpfgpCz2GPHRxmcEinP13uCD6o2mnrucjXlQPkrNtUaacGy6Uj9CbR0xkzvOrh0Y2RJff18P741OhrMDTR_qzG-x1oAhyg_x5u52C4Vn0_34lcyvtJeNnL95dDB9zo5BnkZ_jWcrZG4IK60U9rYCJeUQbVhVGNS7XZGzP10g8_Zjm9KhD8MTxsLbahKlZvjr3L3PmIyKto2lWmQBT-KieploQZVfJUpzDA6DAcy8Mw_aJndGaC3opGG-nA19DPPkVpDUtz7KL-7nzn01g0Tv4euIxqS9jquvlm52PWf_t16zSna1cClydiwvnDraviknzDZTak8l5bdYprA-UBHP1X676LQj6gzYzdpMKpVYyOnKlemkn4OOjLRBRwJ33LJGjlF_kX0PZWMIPY4a8aEyPtMPU2lXMsW2fZenNHUe6uhgqvK5PNUIxOzWfjORbub35IvWmaajnLKYUVcaeuSwQLlZYIx6KGJBHxC7BfyiHQXTAVteVCTNpG6WozpuCuH2UZX2pQ3zLNHu1XEwmVrQyMGd44C4g5iUl05sMlfOpni7aFGSUB93cA0rliTZuT4c8gtZZ2o-5aliirYSaD3g5E6d8aMH7yHO8f5iBLxR5v3etPemvai5n615eiZcx6NguGtxkUIDVVUuPYAE-rsCJuYjbX5PBea6VZiAAUEQ7dVgqOanF-wo3O_7aBmncMr98ZXChImtq5O_bE88WtGgf49Aa61_O1JQPDiUK_moCz3KH3VAYQX9sFaHsDdKCvjYYYvfiR_mId_MylMntmP0yNSW7paMq5KXpmttPXfTomKTSWmceT9tUC89kAHXuxw33C1IQ3cv0K9ipKMCYzHy0War9KkPwyDgxNZXGIR-6cL4mOudvYaxgp9tWzJ9355KpmZlr0MHc3E-FZ4qzYEcPPMJb3J8JNeLbqS_OWoc8vNMvviCFNQ8wevbcBG-b-TD9Z3utLiWhbG-U04aQ-eFb7FSUJNIHGVaPTGdBcOOOyfcN0RlXibRuGKqtD5_KOf9drHRjyLgGt3gzH44l0fh5uWLx5y4kbafp3dINWrxvWCbR0aWVgNXeCIsnA3LuisS5S52Y3gcxZtUmpQAXhb-9WKJ6oAK5jnn-cpJN6p_0-3-veK2nLe1iIdBYCVp_6teqElVtFMhe3MlG7Us8KguINsweG9WMOa-RZe-E0YL-91JscGJF8Yn2uXuRxOUZePs5ZLtiJaOlJ6AUXUya_yfRKBlYq12HkxIHRCQCt-bAwTxFG9rbh_GiGC5tjZdF8PUcqr7phTvI8_z_kgzmULB9tOWyoiZoZycpHd1AGfvlk2mW3SKVgJIYTkNvCLOjTgT1ipvRX0",
+      "plot": "Токийский парень Таки и провинциальная девушка Мицуха обнаруживают, что между ними существует странная связь. Во сне они меняются телами и проживают жизни друг друга. Но однажды эта способность исчезает так же внезапно, как появилась. Таки решает во что бы то ни стало отыскать Мицуху.",
+      "genres": "Аниме, Мультфильм, Фэнтези, Драма, Мелодрама",
+      "rating": "8.4"
+    },
+    {
+      "actors": "Жан Рено, Натали Портман, Гари Олдман, Дэнни Айелло, Питер Эппел, Уилли Уан Блад, Дон Крич, Кит А. Гласко, Рэндольф Скотт, Майкл Бадалукко",
+      "director": "Люк Бессон",
+      "title": "Леон",
+      "year": "1994",
+      "id": 11,
+      "posterUrl": "https://kinopoisk-ru.clstorage.net/N30iW1384/e515deON/2zI0YN6s508t2KHYsS6u_7YQb9WcfzvbzhmPOPlra6c20ffu3qRaZAQJo-XTQ3eGjNWJSaLmTbBn5sLkXlmSGQ_2EXQL-RP-6E3UPBX--0rzId61WQ4qP0t9zunMvt5VxdN0zEmGOZaGC2Xxt0d2U1kADUiCU8zA4yem43291-vIU5VSn680az8ach9wPy7fZlK7xZ2-Lnivelnaa0qJ5yVh9D6bVHvkpSk0EiVWs5LrI69psdIegdcGtOBfS4VYifM08o7fBpqtOFJNMx2czWVQ-gQPLI5bTeoa6RpoiiVEcYa9yffYJCRZJ8Pnl3KCu6BsmxIzPMFmhOYQfDuH6kkB9lDufrQq7UigbmAeXU2WgRol7twNG-6467j669s1J4MEjBhnutWEaJVQBnVDsctDfQsBAs3AN4b0or9qp9gZ43bQ3M71GV6bYd5ArgwMxoG6lj69fVlvahtJenkoFHchBm3p98pVRml0IaZWIYLLEiwYEwIu0tTGRcGdSoY5yFE2ke7u52uNaoNPAKwNb0cha-YObg147FvZyDlo6vT08xT_OtaJJkfbFSHndNCR-xOfq-Hz3ZCm5abxLcq1ixqD9sLdj9f43iuCTED8jU-XM6v3nw18eax6CLtbSboll7BErsk0OjU2aLYxp1Ugg0rDThngYMzS10RGMJz5FTiJgjcynN6nCf34Uv8xrk8NBFLpJ9x83YotStvJW1lL9zQzlhyYZCqXFFtHkeR2EuCokG1asnH_kfeHxYAvaPb5qcN0oV3v9hnuK4BNcx6NbWTDynYsPi45PvnquMipSvUFYMRt-ffaZ7U7trA2tBMyifOvyIITLMHUVDSyfWmWWogBJrH_3ZTI_8vBjyOcbV_FQytnDo3dW-_LarppaStFNDNFThvmq9SG29RBhQZQINrCjfvR4D0T14WHIC9a9NgbQvXgj76GGv06IkzSnb9f1RF7dE2PDjjtK6s4aKq4NBdC5Y0LZqkmVUpVgNc0cRGJA6_r8rGP0AeGVoHfCWf6SgEH4o5tNlv-iNLcEe5tLpdzaWX9HP1JLWqb2evo-bRUwzZvyGS7F0bpxdBXNXBQe2Fv-oGx70FFVxagLxj1yBmiZGD9jqVJHWpCDNL_3byEEot1rz1eat0KuojJOhpGhuJGTUlUahcUCVax9heCcdlhf4ricg7C1YSmI91K5UnJA4Qh7a7l6S_6MB1g_q4vNnLZlvz-P5r8qCj5Gpm5FMcCRq8YhdqWpjj3k1REEiJ7YG0K4aPu0tf3J_KuypQaidBWgKxshwl_G9Od0R4PLUaS-pcuPf05P9oKSqk5SUcUUDaem_a4xsdqxWAndLIzmbCPC6ITDMBEx7bTH9mXy6sBdtEd7edabXhAbIMvHoy0M3g2Pg7ce30IGQsY2ugXVEJF7qjk-ndlGrUztCcx0vuyr4iB8s6CFGSV8-5bhStqsiYT_o1GyQ26Y56Djv7-dQJLBZ8938ie28vbe8rbhNWyBv97N8qVVrj1IcW2wjGKMB_pUrAfkPTllxJMy2Taq_J0ApzNFyj_udIM876c75fTy9VNLe1Z3GhZCHtbmcSkg4QNeQR6F3To56IWtyCR2DINmQMATnH3dAdRD3qEKZgQReK9nbbpfgpCz2GPHRxmcEinP13uCD6o2mnrucjXlQPkrNtUaacGy6Uj9CbR0xkzvOrh0Y2RJff18P741OhrMDTR_qzG-x1oAhyg_x5u52C4Vn0_34lcyvtJeNnL95dDB9zo5BnkZ_jWcrZG4IK60U9rYCJeUQbVhVGNS7XZGzP10g8_Zjm9KhD8MTxsLbahKlZvjr3L3PmIyKto2lWmQBT-KieploQZVfJUpzDA6DAcy8Mw_aJndGaC3opGG-nA19DPPkVpDUtz7KL-7nzn01g0Tv4euIxqS9jquvlm52PWf_t16zSna1cClydiwvnDraviknzDZTak8l5bdYprA-UBHP1X676LQj6gzYzdpMKpVYyOnKlemkn4OOjLRBRwJ33LJGjlF_kX0PZWMIPY4a8aEyPtMPU2lXMsW2fZenNHUe6uhgqvK5PNUIxOzWfjORbub35IvWmaajnLKYUVcaeuSwQLlZYIx6KGJBHxC7BfyiHQXTAVteVCTNpG6WozpuCuH2UZX2pQ3zLNHu1XEwmVrQyMGd44C4g5iUl05sMlfOpni7aFGSUB93cA0rliTZuT4c8gtZZ2o-5aliirYSaD3g5E6d8aMH7yHO8f5iBLxR5v3etPemvai5n615eiZcx6NguGtxkUIDVVUuPYAE-rsCJuYjbX5PBea6VZiAAUEQ7dVgqOanF-wo3O_7aBmncMr98ZXChImtq5O_bE88WtGgf49Aa61_O1JQPDiUK_moCz3KH3VAYQX9sFaHsDdKCvjYYYvfiR_mId_MylMntmP0yNSW7paMq5KXpmttPXfTomKTSWmceT9tUC89kAHXuxw33C1IQ3cv0K9ipKMCYzHy0War9KkPwyDgxNZXGIR-6cL4mOudvYaxgp9tWzJ9355KpmZlr0MHc3E-FZ4qzYEcPPMJb3J8JNeLbqS_OWoc8vNMvviCFNQ8wevbcBG-b-TD9Z3utLiWhbG-U04aQ-eFb7FSUJNIHGVaPTGdBcOOOyfcN0RlXibRuGKqtD5_KOf9drHRjyLgGt3gzH44l0fh5uWLx5y4kbafp3dINWrxvWCbR0aWVgNXeCIsnA3LuisS5S52Y3gcxZtUmpQAXhb-9WKJ6oAK5jnn-cpJN6p_0-3-veK2nLe1iIdBYCVp_6teqElVtFMhe3MlG7Us8KguINsweG9WMOa-RZe-E0YL-91JscGJF8Yn2uXuRxOUZePs5ZLtiJaOlJ6AUXUya_yfRKBlYq12HkxIHRCQCt-bAwTxFG9rbh_GiGC5tjZdF8PUcqr7phTvI8_z_kgzmULB9tOWyoiZoZycpHd1AGfvlk2mW3SKVgJIYTkNvCLOjTgT1ipvRX0",
+      "genres": "Боевик, Триллер, Драма, Криминал",
+      "rating": "8.7",
+      "plot": "Профессиональный убийца Леон неожиданно для себя самого решает помочь 12-летней соседке Матильде, семью которой убили коррумпированные полицейские."
+    },
+    {
+      "title": "Брат",
+      "year": " 1997",
+      "posterUrl": "https://kinopoisk-ru.clstorage.net/N30iW1384/e515deON/2zI0YN6s508t2KHYsS6u_7YQb9WcfzvbzhmPOPlra6c20ffu3qRaZAQJo-XTQwf2fNWJSdc2WPXXk6fUWwziSU_2EUG7uRZeXS1kOXDuq5-jcYsQHBvvD0t9zunMvt5VxdN0zEmGOZaGC2Xxt0d2U1kADUiCU8zA4yem43291-vIU5VSn680az8ach9wPy7fZlK7xZ2-Lnivelnaa0qJ5yVh9D6bVHvkpSk0EiVWs5LrI69psdIegdcGtOBfS4VYifM08o7fBpqtOFJNMx2czWVQ-gQPLI5bTeoa6RpoiiVEcYa9yffYJCRZJ8Pnl3KCu6BsmxIzPMFmhOYQfDuH6kkB9lDufrQq7UigbmAeXU2WgRol7twNG-6467j669s1J4MEjBhnutWEaJVQBnVDsctDfQsBAs3AN4b0or9qp9gZ43bQ3M71GV6bYd5ArgwMxoG6lj69fVlvahtJenkoFHchBm3p98pVRml0IaZWIYLLEiwYEwIu0tTGRcGdSoY5yFE2ke7u52uNaoNPAKwNb0cha-YObg147FvZyDlo6vT08xT_OtaJJkfbFSHndNCR-xOfq-Hz3ZCm5abxLcq1ixqD9sLdj9f43iuCTED8jU-XM6v3nw18eax6CLtbSboll7BErsk0OjU2aLYxp1Ugg0rDThngYMzS10RGMJz5FTiJgjcynN6nCf34Uv8xrk8NBFLpJ9x83YotStvJW1lL9zQzlhyYZCqXFFtHkeR2EuCokG1asnH_kfeHxYAvaPb5qcN0oV3v9hnuK4BNcx6NbWTDynYsPi45PvnquMipSvUFYMRt-ffaZ7U7trA2tBMyifOvyIITLMHUVDSyfWmWWogBJrH_3ZTI_8vBjyOcbV_FQytnDo3dW-_LarppaStFNDNFThvmq9SG29RBhQZQINrCjfvR4D0T14WHIC9a9NgbQvXgj76GGv06IkzSnb9f1RF7dE2PDjjtK6s4aKq4NBdC5Y0LZqkmVUpVgNc0cRGJA6_r8rGP0AeGVoHfCWf6SgEH4o5tNlv-iNLcEe5tLpdzaWX9HP1JLWqb2evo-bRUwzZvyGS7F0bpxdBXNXBQe2Fv-oGx70FFVxagLxj1yBmiZGD9jqVJHWpCDNL_3byEEot1rz1eat0KuojJOhpGhuJGTUlUahcUCVax9heCcdlhf4ricg7C1YSmI91K5UnJA4Qh7a7l6S_6MB1g_q4vNnLZlvz-P5r8qCj5Gpm5FMcCRq8YhdqWpjj3k1REEiJ7YG0K4aPu0tf3J_KuypQaidBWgKxshwl_G9Od0R4PLUaS-pcuPf05P9oKSqk5SUcUUDaem_a4xsdqxWAndLIzmbCPC6ITDMBEx7bTH9mXy6sBdtEd7edabXhAbIMvHoy0M3g2Pg7ce30IGQsY2ugXVEJF7qjk-ndlGrUztCcx0vuyr4iB8s6CFGSV8-5bhStqsiYT_o1GyQ26Y56Djv7-dQJLBZ8938ie28vbe8rbhNWyBv97N8qVVrj1IcW2wjGKMB_pUrAfkPTllxJMy2Taq_J0ApzNFyj_udIM876c75fTy9VNLe1Z3GhZCHtbmcSkg4QNeQR6F3To56IWtyCR2DINmQMATnH3dAdRD3qEKZgQReK9nbbpfgpCz2GPHRxmcEinP13uCD6o2mnrucjXlQPkrNtUaacGy6Uj9CbR0xkzvOrh0Y2RJff18P741OhrMDTR_qzG-x1oAhyg_x5u52C4Vn0_34lcyvtJeNnL95dDB9zo5BnkZ_jWcrZG4IK60U9rYCJeUQbVhVGNS7XZGzP10g8_Zjm9KhD8MTxsLbahKlZvjr3L3PmIyKto2lWmQBT-KieploQZVfJUpzDA6DAcy8Mw_aJndGaC3opGG-nA19DPPkVpDUtz7KL-7nzn01g0Tv4euIxqS9jquvlm52PWf_t16zSna1cClydiwvnDraviknzDZTak8l5bdYprA-UBHP1X676LQj6gzYzdpMKpVYyOnKlemkn4OOjLRBRwJ33LJGjlF_kX0PZWMIPY4a8aEyPtMPU2lXMsW2fZenNHUe6uhgqvK5PNUIxOzWfjORbub35IvWmaajnLKYUVcaeuSwQLlZYIx6KGJBHxC7BfyiHQXTAVteVCTNpG6WozpuCuH2UZX2pQ3zLNHu1XEwmVrQyMGd44C4g5iUl05sMlfOpni7aFGSUB93cA0rliTZuT4c8gtZZ2o-5aliirYSaD3g5E6d8aMH7yHO8f5iBLxR5v3etPemvai5n615eiZcx6NguGtxkUIDVVUuPYAE-rsCJuYjbX5PBea6VZiAAUEQ7dVgqOanF-wo3O_7aBmncMr98ZXChImtq5O_bE88WtGgf49Aa61_O1JQPDiUK_moCz3KH3VAYQX9sFaHsDdKCvjYYYvfiR_mId_MylMntmP0yNSW7paMq5KXpmttPXfTomKTSWmceT9tUC89kAHXuxw33C1IQ3cv0K9ipKMCYzHy0War9KkPwyDgxNZXGIR-6cL4mOudvYaxgp9tWzJ9355KpmZlr0MHc3E-FZ4qzYEcPPMJb3J8JNeLbqS_OWoc8vNMvviCFNQ8wevbcBG-b-TD9Z3utLiWhbG-U04aQ-eFb7FSUJNIHGVaPTGdBcOOOyfcN0RlXibRuGKqtD5_KOf9drHRjyLgGt3gzH44l0fh5uWLx5y4kbafp3dINWrxvWCbR0aWVgNXeCIsnA3LuisS5S52Y3gcxZtUmpQAXhb-9WKJ6oAK5jnn-cpJN6p_0-3-veK2nLe1iIdBYCVp_6teqElVtFMhe3MlG7Us8KguINsweG9WMOa-RZe-E0YL-91JscGJF8Yn2uXuRxOUZePs5ZLtiJaOlJ6AUXUya_yfRKBlYq12HkxIHRCQCt-bAwTxFG9rbh_GiGC5tjZdF8PUcqr7phTvI8_z_kgzmULB9tOWyoiZoZycpHd1AGfvlk2mW3SKVgJIYTkNvCLOjTgT1ipvRX0",
+      "actors": "Сергей Бодров мл., Виктор Сухоруков, Светлана Письмиченко, Мария Милютина, Юрий Кузнецов, Сергей Мурзин, Ирина Ракшина, Анатолий Журавлев, Андрей Федорцов, Андрей Краско",
+      "genres": "Драма, Криминал, Боевик",
+      "rating": "8.3",
+      "director": " Алексей Балабанов",
+      "plot": "Демобилизовавшись, Данила Багров вернулся в родной городок. Но скучная жизнь российской провинции не устраивала его, и он решился податься в Петербург, где, по слухам, уже несколько лет процветает его старший брат. Данила нашел брата. Но все оказалось не так просто — брат работает наемным убийцей.",
+      "id": 12
+    },
+    {
+      "title": "2",
+      "year": "2",
+      "posterUrl": "2",
+      "actors": "2",
+      "plot": "2",
+      "genres": "2",
+      "rating": "2",
+      "director": "2",
+      "id": 13
+    }
+  ]
+}
