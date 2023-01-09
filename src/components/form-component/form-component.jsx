@@ -37,35 +37,37 @@ const FormComponent = ({setForm, setFormData}) => {
                 <Form.Item
                     label={<h2>Название фильма</h2>}
                     required
-                    tooltip="Это поле обязательное."
+                    //tooltip="Это поле обязательное."
+                    rules={[{ required: true, message: 'Обязательное поле' }]}
                     style={{fontSize: '20px'}}
+                    name = "title"
                 >
                     <Input
-                        id="title"
+                        //id="title"
                         placeholder="Введите название фильма"
                         style={{width: '300px', backgroundColor: '#ecf1f7'}}
                         onChange={onChange}
                     />
                 </Form.Item>
-                <Form.Item label={<h2>Год выпуска</h2>} required tooltip="Это поле обязательное." style={{fontSize: '20px'}}>
+                <Form.Item label={<h2>Год выпуска</h2>} required tooltip="Это поле обязательное." style={{fontSize: '20px'}} name = "year">
                     <Input
-                        id="year"
+                        //id="year"
                         placeholder="Введите год выпуска"
                         style={{width: '300px', backgroundColor: '#ecf1f7'}}
                         onChange={onChange}
                     />
                 </Form.Item>
-                <Form.Item label={<h2>Укажите URL на обложку</h2>} style={{fontSize: '20px'}}>
+                <Form.Item label={<h2>Укажите URL на обложку</h2>} style={{fontSize: '20px'}} name = "posterUrl">
                     <Input
-                        id="posterUrl"
+                        //id="posterUrl"
                         placeholder="Введите ..."
                         style={{width: '300px', backgroundColor: '#ecf1f7'}}
                         onChange={onChange}
                     />
                 </Form.Item>
-                <Form.Item label={<h2>Укажите список актеров</h2>} required tooltip="Это поле обязательное." style={{fontSize: '20px'}}>
+                <Form.Item label={<h2>Укажите список актеров</h2>} required rules={[{ required: true, message: 'Обязательное поле' }]} style={{fontSize: '20px'}} name="actors">
                     <Input
-                        id="actors"
+
                         placeholder="Перечислите актеров (через ;) "
                         style={{width: '300px', backgroundColor: '#ecf1f7'}}
                         onChange={onChange}
@@ -76,9 +78,9 @@ const FormComponent = ({setForm, setFormData}) => {
                     //required
                     style={{fontSize: '20px'}}
                     onChange={onChange}
+                    name="plot"
                 >
                     <Input
-                        id="plot"
                         placeholder="Введите ... "
                         style={{width: '300px', backgroundColor: '#ecf1f7'}} />
                 </Form.Item>
@@ -87,9 +89,9 @@ const FormComponent = ({setForm, setFormData}) => {
                     //required
                     style={{fontSize: '20px'}}
                     onChange={onChange}
+                    name="genres"
                 >
                     <Input
-                        id="genres"
                         placeholder="Перечислите жанры "
                         style={{width: '300px', backgroundColor: '#ecf1f7'}} />
                 </Form.Item>
@@ -98,9 +100,9 @@ const FormComponent = ({setForm, setFormData}) => {
                     //required
                     style={{fontSize: '20px'}}
                     onChange={onChange}
+                    name="rating"
                 >
                     <Input
-                        id="rating"
                         placeholder="Введите оценку "
                         style={{width: '300px', backgroundColor: '#ecf1f7'}} />
                 </Form.Item>
@@ -108,12 +110,13 @@ const FormComponent = ({setForm, setFormData}) => {
                 <Form.Item
                     label={<h2>Режиссер</h2>}
                     required
-                    tooltip="Это поле обязательное."
+                    rules={[{ required: true, message: 'Обязательное поле' }]}
                     style={{fontSize: '20px'}}
                     onChange={onChange}
+                    name="director"
                 >
                     <Input
-                    id="director"
+
                     placeholder="Введите ..."
                     style={{width: '300px', backgroundColor: '#ecf1f7'}} />
                 </Form.Item>
