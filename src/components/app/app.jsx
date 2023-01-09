@@ -28,6 +28,7 @@ const App = () => {
         if (formData) {
             if (isAdd) {
                 formData.id = data.length + 1;
+
                 fetch('http://localhost:3000/movies', {
                     method: 'POST',
                     body: JSON.stringify(formData),
@@ -70,6 +71,7 @@ const App = () => {
             }
         }
     }, [formData]);
+
     function searchPost(data, term) {
         if (data.length === 1 || !data) {
             return;

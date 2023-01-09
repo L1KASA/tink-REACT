@@ -5,15 +5,7 @@ import {Input} from 'antd';
 import {useScrollbar} from '../../hooks/use-scrollbar';
 const {Search} = Input;
 const MoviesList = ({data, setMovieData, setForm, onUpdateSearch, setIsAdd}) => {
-    const [term, changeTerm] = useState('');
-    const onUpdateSearchThis = useCallback(
-        event => {
-            const term = event.target.value.toLowerCase();
-            changeTerm(term);
-            onUpdateSearch(term);
-        },
-        [onUpdateSearch],
-    );
+    const onUpdateSearchThis = useCallback();
     const content = data.map((item, index) => {
         const {
             id,
